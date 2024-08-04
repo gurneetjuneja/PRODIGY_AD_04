@@ -1,0 +1,15 @@
+name: tic_tac_toe
+description: A Tic Tac Toe game with a pastel color scheme.
+
+environment:
+  sdk: '^3.4.0'
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  provider: ^6.0.5 # For state management
+  google_fonts: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
